@@ -1,0 +1,24 @@
+{
+    "ownerNumber": ["6285952717854@s.whatsapp.net","6285952717854@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ okuzen_hirosi ×፝֟͜",
+    "instagram" : "https://chat.whatsapp.com/GV2b5dzquwvGIo083v246G",
+    "botName": "okuBotz-Mdོ ",
+    "footer": "okuBotz",
+    "sessionName": "session",
+    "fotoDonasi": "./qris.jpg",
+    "pathimg": "./Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": false,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
